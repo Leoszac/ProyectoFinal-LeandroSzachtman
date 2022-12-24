@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/leoszac/Dropbox/My Mac (Leo’s MacBook Air)/Desktop/Coder House/ProyectoFinal- LeandroSzachtman/myenv/bin/python3" "$0" "$@"
+'''exec' "/Users/leoszac/Dropbox/My Mac (Leo’s MacBook Air)/Desktop/Ejemplo_2/myenv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
