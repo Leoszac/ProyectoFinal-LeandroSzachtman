@@ -1,11 +1,9 @@
-# MVT
-Primer entrega del trabajo final
-Sistema para ver Talleres educativos
+# proyecto-final 45020
+Mi proyecto final
 
-Se pueede encontrar:
-- 3 modelos
-- Forms
-- Herencias heredadas
-- Formulario de Busqueda 
-- Formulario para agregar
-- Readme.md
+## Arrancamos con Django
+Este es un commit antes del conflicto
+
+Simulacro de Conflicto
+
+# Crud de Post para Proyecto Final
