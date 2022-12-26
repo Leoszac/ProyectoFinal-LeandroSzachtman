@@ -1,4 +1,4 @@
-from ejemplo_dos.models import WebSiteSetup
+from .models import WebSiteSetup
 
 
 def add_variable_to_context(request):
