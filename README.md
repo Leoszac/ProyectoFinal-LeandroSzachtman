@@ -24,6 +24,8 @@ python manage.py migrate
 
 4. Crea un superusuario para poder acceder al panel de administración ejecutando el siguiente comando:
 python manage.py createsuperuser
+Usuario creado: admin
+Password: 1234admin1234
 
 5. Arranca el servidor de desarrollo ejecutando el siguiente comando:
 python manage.py runserver
@@ -44,3 +46,6 @@ Login: Implementado --> /login
 Logout: Implementado -->  /logout
 Login Required: Implementado --> <int:pk>/actualizar/
 About: Implementado --> /about
+
+## VIDEO:
+https://youtu.be/-o_rtYKFXUQ
